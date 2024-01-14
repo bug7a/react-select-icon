@@ -10,6 +10,11 @@ https://bug7a.github.io/react-ui-select-icon/
 - Animation support<br>
 - Supports both JSX and TypeScript versions<br>
 
+<b>ScreenShots:</b>
+
+![react icon select](https://raw.githubusercontent.com/bug7a/react-select-icon/main/screenshots/screen1.png)
+![react icon select](https://raw.githubusercontent.com/bug7a/react-select-icon/main/screenshots/screen2.png)
+
 <b>Note:</b>
 
 - This component requires React version 16.8 or higher.<br>
