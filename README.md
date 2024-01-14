@@ -28,6 +28,7 @@ https://bug7a.github.io/react-ui-select-icon/
 
 <b>Basic Code Example:</b>
 
+<code>
 import SelectIcon from './ozden/react-ui-select-icon/SelectIcon';
 
 const [icons, setIcons] = useState([
@@ -48,7 +49,7 @@ function App() {
     />
   );
 }
-
+</code>
 
 Tags:
 
