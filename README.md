@@ -1,7 +1,7 @@
-# Title: Select Icon - React UI Component for Icon Selection
+# Select Icon - React UI Component for Icon Selection
 Select Icon is a React component that provides an easy and customizable way to select icons from a collection.
 
-# Live Demo:
+<b>Live Demo:</b>
 https://bug7a.github.io/react-ui-select-icon/
 
 <b>Features:</b>
@@ -28,7 +28,7 @@ https://bug7a.github.io/react-ui-select-icon/
 
 <b>Basic Code Example:</b>
 
-<code>import SelectIcon from './ozden/react-ui-select-icon/SelectIcon';
+import SelectIcon from './ozden/react-ui-select-icon/SelectIcon';
 
 const [icons, setIcons] = useState([
     { id: "1", iconFile: images['./cat1.png'], title:"Tree" },
@@ -47,9 +47,9 @@ function App() {
       onSelect={handleSelect}
     />
   );
-}</code>
+}
 
 
 Tags:
 
-react component, icon selector, icon picker, icon selection, UI component, user interface, web development, front-end development, frontend development, customizable, animation, animated, dropdown, Material UI,
+react component, icon selector, icon picker, icon selection, UI component, user interface, web development, front-end development, frontend development, customizable, animation, animated, dropdown, Material UI
